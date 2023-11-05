@@ -6,11 +6,8 @@ I'm a self-taught passionate FrontEnd developer from China 🇨🇳
 
 **About me**
 
-- 💼 FrontEnd Engineer at [xxx](http://xxx.com/)
 
-- 📈 Built xxx, xxx and more, **xxxm+** hits • **xxxK** stars on GitHub
-
-- ❤️ I love writing JavaScript, and building fun experiments on type-level
+- ❤️ I love writing JavaScript
 
 - 💬 Ask me about anything [here](https://github.com/yzwbeast/yzwbeast/issues)
 
