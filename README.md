@@ -1,10 +1,10 @@
-<p align="center">👋 I'm a self-taught passionate Python developer from China 🇨🇳</p>
+<p align="center">👋 I'm a self-taught passionate Python developer</p>
 
-## 🚀 About Me
+**🚀 About Me**
 - ❤️ I love writing Python/JavaScript
 - 💬 Ask me about anything [here](https://github.com/yzwbeast/yzwbeast/issues)
 
-## 🛠️ Languages and Tools
+**🛠️ Languages and Tools**
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=HTML5)
@@ -18,13 +18,10 @@
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=yzwbeast&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true" alt="YzwBeast's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yzwbeast&layout=compact&theme=transparent&hide_border=true" /> |
 | ------------- | ------------- |
 
+**🤝 Support**
+
+If you like my work and want to support me, you can buy me a coffee!
+[![Buy Me A Coffee](https://img.shields.io/badge/-Buy%20Me%20A%20Coffee-000?&logo=buymeacoffee)](https://www.buymeacoffee.com/yzwbeast)
 <a href="https://codesandbox.io/u/yzwbeast">
   <img align="right" alt="Yzw Beast | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/yzwbeast/yzwbeast/master/assets/codesandbox.svg" />
 </a>
-
-## 🤝 Support
-
-If you like my work and want to support me, you can buy me a coffee!
-
-[![Buy Me A Coffee](https://img.shields.io/badge/-Buy%20Me%20A%20Coffee-000?&logo=buymeacoffee)](https://www.buymeacoffee.com/yzwbeast)
-
