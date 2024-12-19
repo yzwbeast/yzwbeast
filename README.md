@@ -1,16 +1,17 @@
 <p align="center"><a href="https://yzwbeast.github.io/"><img width="80%" alt="Hello, I'm Anurag. I do open source!" src="./assets/gh-readme-header.png" /></a></p>
 
 
-```
-                      _                    _   
-                     | |                  | |  
-  _   _ ______      _| |__   ___  __ _ ___| |_ 
- | | | |_  /\ \ /\ / / '_ \ / _ \/ _` / __| __|
- | |_| |/ /  \ V  V /| |_) |  __/ (_| \__ \ |_ 
-  \__, /___|  \_/\_/ |_.__/ \___|\__,_|___/\__|
-   __/ |                                       
-  |___/                                        
-```
+<code>
+
+               b                 t  
+               b                 t  
+y  y zz  w   w bbb  eee  aa  ss ttt 
+y  y  z  w w w b  b e e a a  s   t  
+ yyy  zz  w w  bbb  ee  aaa ss   tt 
+   y                                
+yyy                                 
+
+</code>
 
 <br />
 
