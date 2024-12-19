@@ -3,10 +3,6 @@
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yzwbeast&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical)
 ![Code Coverage](https://img.shields.io/codecov/c/github/yzwbeast/your-repository)
 
-![Last Commit](https://img.shields.io/github/last-commit/yzwbeast/ai-chatbot)
-![Open PRs](https://img.shields.io/github/issues-pr/yzwbeast/ai-chatbot)
-![Open Issues](https://img.shields.io/github/issues/yzwbeast/ai-chatbot)
-
 <br />
 
 I'm a self-taught passionate FrontEnd developer from China 🇨🇳
