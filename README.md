@@ -1,7 +1,7 @@
 <p align="center"><a href="https://yzwbeast.github.io/"><img width="80%" alt="Hello, I'm Anurag. I do open source!" src="./assets/gh-readme-header.png" /></a></p>
 
 
-
+```
                       _                    _   
                      | |                  | |  
   _   _ ______      _| |__   ___  __ _ ___| |_ 
@@ -10,7 +10,7 @@
   \__, /___|  \_/\_/ |_.__/ \___|\__,_|___/\__|
    __/ |                                       
   |___/                                        
-
+```
 
 <br />
 
