@@ -23,7 +23,7 @@ I'm a self-taught passionate FrontEnd developer from China 🇨🇳
 
 
 <a href="https://twitter.com/yzwbeast">
-  <img align="right" alt="Yzw Beast | Twitter" width="21px" src="https://raw.githubusercontent.com/yzwbeast/yzwbeast/master/assets/x.svg" />
+  <img align="right" alt="Yzw Beast | Twitter" width="21px" src="https://raw.githubusercontent.com/yzwbeast/yzwbeast/master/assets/twitter.svg" />
 </a>
 <a href="https://codesandbox.io/u/yzwbeast">
   <img align="right" alt="Yzw Beast | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/yzwbeast/yzwbeast/master/assets/codesandbox.svg" />
