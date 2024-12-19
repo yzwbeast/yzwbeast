@@ -1,7 +1,6 @@
 <p align="center"><a href="https://yzwbeast.github.io/"><img width="80%" alt="Hello, I'm Anurag. I do open source!" src="./assets/gh-readme-header.png" /></a></p>
 
-
-<div style="text-align: center;">
+<div style="text-align: center; width: 100%; display: inline-block;">
 <pre>
                b                 t  
                b                 t  
