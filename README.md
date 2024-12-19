@@ -1,12 +1,12 @@
 <p align="center"><a href="https://yzwbeast.github.io/"><img width="80%" alt="Hello, I'm Anurag. I do open source!" src="./assets/gh-readme-header.png" /></a></p>
 
-               b t  
-               b t  
-y y zz w w bbb eee aa ss ttt 
-y y z w w w b b e e a a s t  
-yyy zz w w bbb ee aaa ss tt 
-   y                                
-yyy                                 
+---
+
+## 📊 **GitHub Stats**
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yzwbeast&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical)
+
+---
+                                
 
 <br />
 
