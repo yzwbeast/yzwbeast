@@ -1,6 +1,4 @@
-<p align="center"><a href="https://yzwbeast.github.io/"><img width="80%" alt="Hello, I'm Anurag. I do open source!" src="./assets/gh-readme-header.png" /></a></p>
-
-👋 I'm a self-taught passionate Python developer from China 🇨🇳
+<p align="center">👋 I'm a self-taught passionate Python developer from China 🇨🇳</p>
 
 **About me**
 
