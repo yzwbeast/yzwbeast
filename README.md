@@ -16,9 +16,6 @@
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=yzwbeast&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true" alt="YzwBeast's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yzwbeast&layout=compact&theme=transparent&hide_border=true" /> |
 | ------------- | ------------- |
 
-<a href="https://x.com/yzwbeast">
-  <img align="right" alt="Yzw Beast | X" width="30px" src="https://raw.githubusercontent.com/yzwbeast/yzwbeast/master/assets/x.svg" />
-</a>
 <a href="https://codesandbox.io/u/yzwbeast">
   <img align="right" alt="Yzw Beast | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/yzwbeast/yzwbeast/master/assets/codesandbox.svg" />
 </a>
