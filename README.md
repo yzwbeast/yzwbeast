@@ -7,7 +7,7 @@ I'm a self-taught passionate FrontEnd developer from China 🇨🇳
 **About me**
 
 
-- ❤️ I love writing JavaScript
+- ❤️ I love writing Python/JavaScript
 
 - 💬 Ask me about anything [here](https://github.com/yzwbeast/yzwbeast/issues)
 
