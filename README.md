@@ -17,7 +17,7 @@
 | ------------- | ------------- |
 
 <a href="https://x.com/yzwbeast">
-  <img align="right" alt="Yzw Beast | Twitter" width="21px" src="https://raw.githubusercontent.com/yzwbeast/yzwbeast/master/assets/x.svg" />
+  <img align="right" alt="Yzw Beast | X" width="30px" src="https://raw.githubusercontent.com/yzwbeast/yzwbeast/master/assets/x.svg" />
 </a>
 <a href="https://codesandbox.io/u/yzwbeast">
   <img align="right" alt="Yzw Beast | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/yzwbeast/yzwbeast/master/assets/codesandbox.svg" />
